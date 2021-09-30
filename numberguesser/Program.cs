@@ -89,7 +89,7 @@ namespace NumberGuesser
             // Set app vars
             string appName = "Number Guesser";
             string appVersion = "1.0.0";
-            string appAuthor = "Jako Jermolov";
+            string appAuthor = "Janek Lond";
 
             // Change text color
             Console.ForegroundColor = ConsoleColor.Red;
